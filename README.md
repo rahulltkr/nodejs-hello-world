@@ -1,7 +1,7 @@
 # Node.js Hello World
 
 
-### Clone this
+### Clone this repository
 
 git clone https://github.com/rahulltkr/nodejs-hello-world
 
@@ -9,3 +9,4 @@ git clone https://github.com/rahulltkr/nodejs-hello-world
 
 cd nodejs-hello-world
 npm run
+
